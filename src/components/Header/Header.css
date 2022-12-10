@@ -1,0 +1,26 @@
+nav img {
+    width: 55px;
+    height: 50px;
+    margin-left: 100px;
+}
+
+.header {
+    height: 86px;
+    background-color: #eaf1f1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.header a {
+    text-decoration: none;
+    color: #75aea8;
+    margin-right: 50px;
+}
+
+
+.header a:hover {
+    color: #14d0ff;
+}
