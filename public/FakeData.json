@@ -1,0 +1,362 @@
+[
+    {
+        "id": "56-972-1314",
+        "name": "Air Conditioner",
+        "brand": "Arroyo Willow",
+        "price": "527",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Air-Conditioner_e6zdma.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "40-348-3675",
+        "name": "Air Purifier",
+        "brand": "Aspirin",
+        "price": "250",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Air-Purifier_acjocs.png",
+        "ratings": 4
+    },
+    {
+        "id": "78-355-2439",
+        "name": "Alarm Clock",
+        "brand": "Curvularia inequalis",
+        "price": "40",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Alarm-Clock_i9bjhe.jpg",
+        "ratings": 3
+    },
+    {
+        "id": "14-824-7551",
+        "name": "Backup Charger",
+        "brand": "Pain Relief",
+        "price": "75",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Backup-Charger_hok55q.jpg",
+        "ratings": 4
+    },
+    {
+        "id": "63-588-5181",
+        "name": "Blender",
+        "brand": "SODIUM BICARBONATE",
+        "price": "188",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/blender_f2dfep.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "71-947-1013",
+        "name": "Blub",
+        "brand": "Rheumatism",
+        "price": "20",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/blub_fhpih9.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "12-127-0185",
+        "name": "Bluetooth Speaker",
+        "brand": "Dasetta 7/7/7",
+        "price": "80",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/bluetooth-Speaker_gvcbaq.jpg",
+        "ratings": 7
+    },
+    {
+        "id": "14-105-7430",
+        "name": "Calculator",
+        "brand": "Relief",
+        "price": "70",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Calculator_piaqip.jpg",
+        "ratings": 4
+    },
+    {
+        "id": "13-699-9331",
+        "name": "Car Toy",
+        "brand": "60-Second Fluoride",
+        "price": "15",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/Car-Toy_j2bi9p.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "51-755-3788",
+        "name": "Ceiling Fan",
+        "brand": "risperidone",
+        "price": "200",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/Ceiling-Fan_lxln6i.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "12-738-9856",
+        "name": "Chandelier",
+        "brand": "LoHist",
+        "price": "880",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/Chandelier_znqjzu.jpg",
+        "ratings": 4
+    },
+    {
+        "id": "59-889-5104",
+        "name": "Clock",
+        "brand": "Truvada",
+        "price": "40",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/Clock_f6rlyk.jpg",
+        "ratings": 2
+    },
+    {
+        "id": "46-492-4960",
+        "name": "Clothes Dryer",
+        "brand": "LAMISIL AT",
+        "price": "900",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Clothes-Dryer_karpqq.png",
+        "ratings": 2
+    },
+    {
+        "id": "91-520-9843",
+        "name": "Coffee Maker",
+        "brand": "Promethazine",
+        "price": "300",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Coffee-Maker_yltcs5.jpg",
+        "ratings": 14
+    },
+    {
+        "id": "29-012-4001",
+        "name": "Computer",
+        "brand": "walton",
+        "price": "1200",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Computer_t2h74v.jpg",
+        "ratings": 3
+    },
+    {
+        "id": "69-691-8472",
+        "name": "Copier",
+        "brand": "Premasol)",
+        "price": "2099",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Copier_vkyzgo.jpg",
+        "ratings": 3
+    },
+    {
+        "id": "51-840-2241",
+        "name": "Curling Iron",
+        "brand": "Hydrochloride",
+        "price": "120",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Curling-iron_b6wiez.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "79-801-3119",
+        "name": "Digital Camera",
+        "brand": "Seven",
+        "price": "550",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Digital-Camera_npkoqx.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "51-334-9549",
+        "name": "Dishwasher",
+        "brand": "Nicotine",
+        "price": "1500",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Dishwasher_yzzhlj.jpg",
+        "ratings": 19
+    },
+    {
+        "id": "07-086-7933",
+        "name": "Doorbell Camera",
+        "brand": "Shingles",
+        "price": "90",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Doorbell-Camera_b3u7rt.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "77-442-5200",
+        "name": "Drill",
+        "brand": "rHGH Complex",
+        "price": "310",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Drill_bycpjq.jpg",
+        "ratings": 3.5
+    },
+    {
+        "id": "13-844-8097",
+        "name": "Dvd Player",
+        "brand": "Leader Antacid",
+        "price": "264",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Dvd-player_lbtv9k.jpg",
+        "ratings": 4.5
+    },
+    {
+        "id": "00-300-4211",
+        "name": "Earphone",
+        "brand": "Pseudoephedrine Hydrochloride",
+        "price": "33",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Earphones_cjjn9o.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "79-680-6406",
+        "name": "Electric Frying Pan",
+        "brand": "ProState",
+        "price": "388",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Frying-Pan_vi4eid.png",
+        "ratings": 5
+    },
+    {
+        "id": "88-902-8166",
+        "name": "Electric Grill",
+        "brand": "Sertraline",
+        "price": "460",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Grill_xp86vm.jpg",
+        "ratings": 2.5
+    },
+    {
+        "id": "24-968-3469",
+        "name": "Electric Guater",
+        "brand": "HELIOX",
+        "price": "3050",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Guitar_ldh8t3.jpg",
+        "ratings": 2.6
+    },
+    {
+        "id": "49-238-0142",
+        "name": "Electric Pencil",
+        "brand": "RANITIDINE",
+        "price": "190",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Pencil_vwxkdv.jpg",
+        "ratings": 2.7
+    },
+    {
+        "id": "16-805-6592",
+        "name": "Electric Razor",
+        "brand": "Carvedilol",
+        "price": "140",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Razor_fr5bjj.jpg",
+        "ratings": 2.8
+    },
+    {
+        "id": "74-822-3532",
+        "name": "Electric Stove ",
+        "brand": "Topcare Cold Multi Symptom Severe",
+        "price": "270",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Stove_fnckd3.jpg",
+        "ratings": 2.9
+    },
+    {
+        "id": "71-958-3230",
+        "name": "Exhaust Fan",
+        "brand": "Hot Spot",
+        "price": "99",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Exhaust-Fan_auynqr.jpg",
+        "ratings": 3.0
+    },
+    {
+        "id": "28-337-9655",
+        "name": "Money Counter",
+        "brand": "Mugwort",
+        "price": "3933112192",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/money_maker_dnrnbi.jpg",
+        "ratings": 3.1
+    },
+    {
+        "id": "56-972-1314",
+        "name": "Air Conditioner",
+        "brand": "Arroyo Willow",
+        "price": "527",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Air-Conditioner_e6zdma.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "14-105-7430",
+        "name": "Calculator",
+        "brand": "Relief",
+        "price": "70",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Calculator_piaqip.jpg",
+        "ratings": 4
+    },
+    {
+        "id": "51-840-2241",
+        "name": "Curling Iron",
+        "brand": "Hydrochloride",
+        "price": "120",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Curling-iron_b6wiez.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "63-588-5181",
+        "name": "Blender",
+        "brand": "SODIUM BICARBONATE",
+        "price": "188",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/blender_f2dfep.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "14-824-7551",
+        "name": "Backup Charger",
+        "brand": "Pain Relief",
+        "price": "75",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Backup-Charger_hok55q.jpg",
+        "ratings": 4
+    },
+    {
+        "id": "91-520-9843",
+        "name": "Coffee Maker",
+        "brand": "Promethazine",
+        "price": "300",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Coffee-Maker_yltcs5.jpg",
+        "ratings": 14
+    },
+    {
+        "id": "07-086-7933",
+        "name": "Doorbell Camera",
+        "brand": "Shingles",
+        "price": "90",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Doorbell-Camera_b3u7rt.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "00-300-4211",
+        "name": "Earphone",
+        "brand": "Pseudoephedrine Hydrochloride",
+        "price": "33",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Earphones_cjjn9o.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "13-699-9331",
+        "name": "Car Toy",
+        "brand": "60-Second Fluoride",
+        "price": "15",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/Car-Toy_j2bi9p.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "71-947-1013",
+        "name": "Blub",
+        "brand": "Rheumatism",
+        "price": "20",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736294/photos%20of%20Electronic%20website/blub_fhpih9.jpg",
+        "ratings": 5
+    },
+    {
+        "id": "79-680-6406",
+        "name": "Electric Frying Pan",
+        "brand": "ProState",
+        "price": "388",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736296/photos%20of%20Electronic%20website/Electric-Frying-Pan_vi4eid.png",
+        "ratings": 5
+    },
+    {
+        "id": "51-334-9549",
+        "name": "Dishwasher",
+        "brand": "Nicotine",
+        "price": "1500",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Dishwasher_yzzhlj.jpg",
+        "ratings": 19
+    },
+    {
+        "id": "46-492-4960",
+        "name": "Clothes Dryer",
+        "brand": "LAMISIL AT",
+        "price": "900",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736295/photos%20of%20Electronic%20website/Clothes-Dryer_karpqq.png",
+        "ratings": 2
+    },
+    {
+        "id": "40-348-3675",
+        "name": "Air Purifier",
+        "brand": "Aspirin",
+        "price": "250",
+        "img": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1670736293/photos%20of%20Electronic%20website/Air-Purifier_acjocs.png",
+        "ratings": 4
+    }
+]
